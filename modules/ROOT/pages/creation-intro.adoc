@@ -1,6 +1,6 @@
 = Creation Evidence
-:page-category: creation
-:keyword: creation
+:description: Introduction to the creation topic.
+:keywords: creation
 
 Testing br-creation module
 
