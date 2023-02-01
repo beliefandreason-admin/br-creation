@@ -1,4 +1,6 @@
 = Creation Evidence
+:page-category: creation
+:keyword: creation
 
 Testing br-creation module
 
