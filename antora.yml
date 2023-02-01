@@ -1,7 +1,7 @@
 name: creation
 title: Creation
 version: 2023.01
-start_page: index.adoc
+start_page: creation-intro.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
